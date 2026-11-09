@@ -17,7 +17,7 @@ from services.demo import banner, exit_demo, is_demo
 from services.workspace import ensure_workspace_bound
 
 st.set_page_config(
-    page_title="Kurumsal Su Ayak İzi Dashboard",
+    page_title="Kurumsal Su Ayak İzi",
     page_icon="💧",
     layout="wide",
     initial_sidebar_state="expanded",
